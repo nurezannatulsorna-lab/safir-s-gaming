@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point.",
+    "thumbnail": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://game316022.konggames.com/gamez/0031/6022/live/index.html",
+    "category": "Sports"
+  },
+  {
+    "id": "2",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "3",
+    "title": "Minecraft (Classic)",
+    "description": "Build, explore and survive in the classic version of Minecraft.",
+    "thumbnail": "https://images.unsplash.com/photo-1605898394200-e2ef61623910?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://classic.minecraft.net/",
+    "category": "Adventure"
+  },
+  {
+    "id": "4",
+    "title": "Slope",
+    "description": "The ultimate speed run game that will challenge your reflexes.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745679-37667d4f7a2d?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://kdata1.com/2020/05/slope/",
+    "category": "Arcade"
+  },
+  {
+    "id": "5",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies.",
+    "thumbnail": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "category": "Idle"
+  },
+  {
+    "id": "6",
+    "title": "Friday Night Funkin'",
+    "description": "A rhythm game where you battle for your life and your girlfriend.",
+    "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=400&h=300&auto=format&fit=crop",
+    "url": "https://ninja-muffin24.itch.io/funkin",
+    "category": "Rhythm"
+  }
+]
